@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Introcirc.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="IR1G0000" x="10" y="10" width="615" height="616"/>
+	<SubTexture name="IR2G0000" x="640" y="10" width="615" height="616"/>
+	<SubTexture name="IR3G0000" x="1270" y="10" width="615" height="616"/>
+	<SubTexture name="IRFL0000" x="1900" y="10" width="615" height="616"/>
+	<SubTexture name="IRNG0000" x="1900" y="2534" width="615" height="616"/>
+	<SubTexture name="Intro Ring0000" x="2530" y="10" width="615" height="616"/>
+	<SubTexture name="Intro Ring0001" x="3160" y="10" width="615" height="616"/>
+	<SubTexture name="Intro Ring0002" x="3790" y="10" width="615" height="616"/>
+	<SubTexture name="Intro Ring0003" x="4420" y="10" width="615" height="616"/>
+	<SubTexture name="Intro Ring0004" x="5050" y="10" width="615" height="616"/>
+	<SubTexture name="Intro Ring0005" x="5680" y="10" width="615" height="616"/>
+	<SubTexture name="Intro Ring0006" x="6310" y="10" width="615" height="616"/>
+	<SubTexture name="Intro Ring0007" x="6940" y="10" width="615" height="616"/>
+	<SubTexture name="Intro Ring0008" x="10" y="641" width="615" height="616"/>
+	<SubTexture name="Intro Ring0009" x="640" y="641" width="615" height="616"/>
+	<SubTexture name="Intro Ring0010" x="1270" y="641" width="615" height="616"/>
+	<SubTexture name="Intro Ring0011" x="1900" y="641" width="615" height="616"/>
+	<SubTexture name="Intro Ring0012" x="2530" y="641" width="615" height="616"/>
+	<SubTexture name="Intro Ring0013" x="3160" y="641" width="615" height="616"/>
+	<SubTexture name="Intro Ring0014" x="3790" y="641" width="615" height="616"/>
+	<SubTexture name="Intro Ring0015" x="4420" y="641" width="615" height="616"/>
+	<SubTexture name="Intro Ring0016" x="5050" y="641" width="615" height="616"/>
+	<SubTexture name="Intro Ring0017" x="5680" y="641" width="615" height="616"/>
+	<SubTexture name="Intro Ring0018" x="6310" y="641" width="615" height="616"/>
+	<SubTexture name="Intro Ring0019" x="6940" y="641" width="615" height="616"/>
+	<SubTexture name="Intro Ring0020" x="10" y="1272" width="615" height="616"/>
+	<SubTexture name="Intro Ring0021" x="640" y="1272" width="615" height="616"/>
+	<SubTexture name="Intro Ring0022" x="1270" y="1272" width="615" height="616"/>
+	<SubTexture name="Intro Ring0023" x="1900" y="1272" width="615" height="616"/>
+	<SubTexture name="Intro Ring0024" x="2530" y="1272" width="615" height="616"/>
+	<SubTexture name="Intro Ring0025" x="3160" y="1272" width="615" height="616"/>
+	<SubTexture name="Intro Ring0026" x="3790" y="1272" width="615" height="616"/>
+	<SubTexture name="Intro Ring0027" x="4420" y="1272" width="615" height="616"/>
+	<SubTexture name="Intro Ring0028" x="5050" y="1272" width="615" height="616"/>
+	<SubTexture name="Intro Ring0029" x="5680" y="1272" width="615" height="616"/>
+	<SubTexture name="Intro Ring0030" x="6310" y="1272" width="615" height="616"/>
+	<SubTexture name="Intro Ring0031" x="6940" y="1272" width="615" height="616"/>
+	<SubTexture name="Intro Ring0032" x="10" y="1903" width="615" height="616"/>
+	<SubTexture name="Intro Ring0033" x="640" y="1903" width="615" height="616"/>
+	<SubTexture name="Intro Ring0034" x="1270" y="1903" width="615" height="616"/>
+	<SubTexture name="Intro Ring0035" x="1900" y="1903" width="615" height="616"/>
+	<SubTexture name="Intro Ring0036" x="2530" y="1903" width="615" height="616"/>
+	<SubTexture name="Intro Ring0037" x="3160" y="1903" width="615" height="616"/>
+	<SubTexture name="Intro Ring0038" x="3790" y="1903" width="615" height="616"/>
+	<SubTexture name="Intro Ring0039" x="4420" y="1903" width="615" height="616"/>
+	<SubTexture name="Intro Ring0040" x="5050" y="1903" width="615" height="616"/>
+	<SubTexture name="Intro Ring0041" x="5680" y="1903" width="615" height="616"/>
+	<SubTexture name="Intro Ring0042" x="6310" y="1903" width="615" height="616"/>
+	<SubTexture name="Intro Ring0043" x="6940" y="1903" width="615" height="616"/>
+	<SubTexture name="Intro Ring0044" x="10" y="2534" width="615" height="616"/>
+	<SubTexture name="Intro Ring0045" x="640" y="2534" width="615" height="616"/>
+	<SubTexture name="Intro Ring0046" x="1270" y="2534" width="615" height="616"/>
+	<SubTexture name="Intro Ring0047" x="1900" y="2534" width="615" height="616"/>
+</TextureAtlas>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Ground.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Ground0000" x="10" y="10" width="1253" height="289" frameX="-7" frameY="0" frameWidth="1301" frameHeight="320"/>
+	<SubTexture name="Ground0001" x="10" y="314" width="1256" height="221" frameX="-4" frameY="-1" frameWidth="1301" frameHeight="320"/>
+	<SubTexture name="Ground0002" x="10" y="550" width="1301" height="312" frameX="0" frameY="-8" frameWidth="1301" frameHeight="320"/>
+</TextureAtlas>

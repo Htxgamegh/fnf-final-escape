@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="aubergineManBodMiss.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="purpBodMiss0000" x="10" y="10" width="100" height="94" frameX="0" frameY="-2" frameWidth="100" frameHeight="99"/>
+	<SubTexture name="purpBodMiss0001" x="10" y="10" width="100" height="94" frameX="0" frameY="-2" frameWidth="100" frameHeight="99"/>
+	<SubTexture name="purpBodMiss0002" x="125" y="10" width="100" height="99"/>
+	<SubTexture name="purpBodMiss0003" x="125" y="10" width="100" height="99"/>
+</TextureAtlas>
